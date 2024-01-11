@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Millan</h1>
+<p> La imagen deberia estar aqui </p>
+![Alt Text](media/ia_images/me_programming.png)
+
 <h3 align="center">A passionate data scientist with python full stack developer skills.</h3>
 
 - 🔭 I’m currently working on **a platform that offers work tools to freelancers.**
