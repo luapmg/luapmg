@@ -5,6 +5,11 @@
 
 <h3 align="center">A passionate data scientist with python full stack developer skills.</h3>
 
+* [x] I alredy say hello
+* [ ] Show my projects
+
+:smiley:
+
 * 🔭 I’m currently working on **a platform that offers work tools to freelancers.**
 
 * ⚡ Fun fact **It took me a long time to realize that my passion is programming but you know what they say, "its never too late to start".**
