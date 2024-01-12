@@ -2,9 +2,9 @@
 
 <p align="center">
     <img 
-    src="media/ia_images/me_draw_circle.png" 
-    width="160px"
-    height="160px"
+    src="media/ia_images/world_dreams_title.png" 
+    width="640px"
+    height="200px"
     >
 </p>
 
