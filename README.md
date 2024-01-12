@@ -2,7 +2,7 @@
 
 <p align="center">
     <img 
-    src="media/ia_images/world_dreams_title.png" 
+    src="media/ia_images/world_dreams_title_2.png" 
     width="640px"
     height="200px"
     >
