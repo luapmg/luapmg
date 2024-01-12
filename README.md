@@ -21,7 +21,7 @@ I graduated from university as an **electrical engineer**, but I was not happy w
 
 * ⚡ Something I want to belive **"its never too late to start".**
 
-<h3 align="left">Some of my work:</h3>
+<!-- <h3 align="left">Some of my work:</h3> -->
 
 <!-- [Analysis for staple goods using big data.](https://www.tesis.ipn.mx) -->
 
