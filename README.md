@@ -1,16 +1,33 @@
 <h1 align="center">Hi 👋, I'm Paul Millan</h1>
-<p align="center">
+<!-- <p align="center">
     <img src="media/ia_images/me_programming.png" width="160px", height="160px">
+</p> -->
+
+<p align="center">
+    <img 
+    src="media/ia_images/me_draw.png" 
+    width="160px", 
+    height="160px",
+    style="border-radius:50%;"
+    >
 </p>
+
 
 <h3 align="center">A passionate data scientist with python full stack developer skills.</h3>
 
-* [x] I alredy say hello
+I graduated from university as an **electrical engineer**, but I was not happy with my field of work, so I decided to switch to **computer science** and it is one of the best things I have ever done in my life, although I wish I had done it sooner.
+
+* [x] Introduce myself
 * [ ] Show my projects
 
 :smiley:
 
-* 🔭 I’m currently working on **a platform that offers work tools to freelancers.**
+
+* 🔭 I am currently working on a platform that will offer tools to freelancers, it is a personal project that I want to make it happens.
+
+* :link: I have worked with **text processing** most of the time on **linked data**, **text similarity** and **text clustering**.
+
+* :chart_with_upwards_trend: I have done research work analyzing public commodity data and developing price **forecast algorithms** with **neural networks** during my master's studies.
 
 * ⚡ Fun fact **It took me a long time to realize that my passion is programming but you know what they say, "its never too late to start".**
 
