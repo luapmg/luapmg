@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Paul Millan</h1>
-<p align="center">
+<a>
     <img src="media/ia_images/me_programming.png" width="160px", height="160px" style="border-radius:50%;">
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <img 
     src="media/ia_images/me_draw.png" 
     width="160px"
     height="160px"
     style="border-radius:50%;"
     >
-</p> -->
+</p>
 
 
 <h3 align="center">A passionate data scientist with python full stack developer skills.</h3>
