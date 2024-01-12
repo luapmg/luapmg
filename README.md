@@ -6,8 +6,8 @@
 <p align="center">
     <img 
     src="media/ia_images/me_draw.png" 
-    width="160px", 
-    height="160px",
+    width="160px"
+    height="160px"
     style="border-radius:50%;"
     >
 </p>
