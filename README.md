@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Paul Millan</h1>
-<a>
-    <img src="media/ia_images/me_programming.png" width="160px", height="160px" style="border-radius:50%;">
-</p>
 
 <p align="center">
     <img 
-    src="media/ia_images/me_draw.png" 
+    src="media/ia_images/me_draw_circle.png" 
     width="160px"
     height="160px"
-    style="border-radius:50%;"
     >
 </p>
 
@@ -16,13 +12,6 @@
 <h3 align="center">A passionate data scientist with python full stack developer skills.</h3>
 
 I graduated from university as an **electrical engineer**, but I was not happy with my field of work, so I decided to switch to **computer science** and it is one of the best things I have ever done in my life, although I wish I had done it sooner.
-
-What I must not forget.
-* [x] Introduce myself
-* [x] Briefly talk about my experience
-* [x] Share some of my work
-* [ ] Do some contributions
-
 
 * 🔭 I am currently working on a web platform that will offer tools to freelancers, it is a personal project that I want to make it happens. I am developing it with **django, python, javascript, html, css and bootstrap 5**.
 
