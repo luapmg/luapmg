@@ -17,19 +17,20 @@
 
 I graduated from university as an **electrical engineer**, but I was not happy with my field of work, so I decided to switch to **computer science** and it is one of the best things I have ever done in my life, although I wish I had done it sooner.
 
+What I must not forget.
 * [x] Introduce myself
-* [ ] Show my projects
+* [x] Briefly talk about my experience
+* [x] Share some of my work
+* [ ] Do some contributions
 
-:smiley:
 
-
-* 🔭 I am currently working on a platform that will offer tools to freelancers, it is a personal project that I want to make it happens.
+* 🔭 I am currently working on a web platform that will offer tools to freelancers, it is a personal project that I want to make it happens. I am developing it with **django, python, javascript, html, css and bootstrap 5**.
 
 * :link: I have worked with **text processing** most of the time on **linked data**, **text similarity** and **text clustering**.
 
 * :chart_with_upwards_trend: I have done research work analyzing public commodity data and developing price **forecast algorithms** with **neural networks** during my master's studies.
 
-* ⚡ Fun fact **It took me a long time to realize that my passion is programming but you know what they say, "its never too late to start".**
+* ⚡ Fun fact: It took me a long time to realize that my passion is programming but you know what they say, **"its never too late to start".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
