@@ -19,7 +19,12 @@ I graduated from university as an **electrical engineer**, but I was not happy w
 
 * :chart_with_upwards_trend: I have done research work analyzing public commodity data and developing price **forecast algorithms** with **neural networks** during my master's studies.
 
-* ⚡ Fun fact: It took me a long time to realize that my passion is programming but you know what they say, **"its never too late to start".**
+* ⚡ Something I want to belive **"its never too late to start".**
+
+<h3 align="left">Some of my work:</h3>
+
+<!-- [Analysis for staple goods using big data.](https://www.tesis.ipn.mx) -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
